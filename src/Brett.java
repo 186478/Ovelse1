@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @Author Gruppe 68 (Teodor, Mats, Bashar, Alex, Andreas)
+ * Klassen brett for selve brettet med stiger og slanger i stigespillet
+ */
+
 public class Brett {
 
     private final List<Rute> ruter;

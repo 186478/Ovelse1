@@ -1,3 +1,8 @@
+/**
+ * @Author Gruppe 68 (Teodor, Mats, Bashar, Alex, Andreas)
+ * Klassen brikke for brikkene i stigespillet
+ */
+
 public class Brikke {
 
     private Rute rute;

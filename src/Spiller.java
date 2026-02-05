@@ -1,3 +1,8 @@
+/**
+ * @Author Gruppe 68 (Teodor, Mats, Bashar, Alex, Andreas)
+ * Klasse Spiller for spillerene i stigespillet
+ */
+
 public class Spiller {
 
     private final String navn;

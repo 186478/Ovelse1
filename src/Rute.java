@@ -1,3 +1,9 @@
+/**
+ * @Author Gruppe 68 (Teodor, Mats, Bashar, Alex, Andreas)
+ * Klassen Rute for alle rutene på brettet
+ * med funksjonene flyttTil og landPa
+ */
+
 public class Rute {
 
     private final int nummer;

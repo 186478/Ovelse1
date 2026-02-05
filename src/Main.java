@@ -1,5 +1,12 @@
 import javax.swing.JOptionPane;
 
+/**
+ * @Author Gruppe 68 (Teodor, Mats, Bashar, Alex, Andreas)
+ * Main fil for å starte opp spillet
+ * her velger du først antall spillere og navnene på spillerene før
+ * spillet starter.
+ */
+
 public class Main {
     public static void main(String[] args) {
 
